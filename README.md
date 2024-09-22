@@ -24,6 +24,6 @@ This repository serves as a quick setup for a React project with Tailwind CSS, b
 5. Git & GitHub – for version control and collaboration
 
 ### Live Demo  
-Check out the live demo of Printify Pro on Vercel:printify-homepage-edxf7gvce-shibu-kumaris-projects.vercel.app
+Check out the live demo of Printify Pro on Vercel:[printify-homepage-edxf7gvce-shibu-kumaris-projects.vercel.app]
 
 
