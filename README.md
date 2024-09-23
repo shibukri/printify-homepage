@@ -16,7 +16,7 @@ This repository serves as a quick setup for a React project with Tailwind CSS, b
 - Run the development server: `npm run dev` or `npm start`
 - Open your browser and visit `http://localhost:3000`
 
-<<<<<<< HEAD
+
 ### Tech Stack
 1. React – for building the interactive UI
 2. Vite – for fast project bundling and development
@@ -26,7 +26,7 @@ This repository serves as a quick setup for a React project with Tailwind CSS, b
 
 
 ### Live Demo
- Check out the live demo of Printify Pro on Vercel: https://printify-homepage-edxf7gvce-shibu-kumaris-projects.vercel.app/
+ Check out the live demo of Printify Pro on Vercel: https://printify-homepage-alpha.vercel.app/
 =======
 
 
